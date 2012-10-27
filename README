@@ -1,0 +1,6 @@
+The Working Computer
+bugmo@theworkingcomputer.biz.ly
+
+Program to facilitate computer use by people who have never used and/or are afraid of using them. Helps also with gradual adjustment to tasks necessary for safe and productive use of a personal computer.
+
+Initial interface in vb.NET for easy coding and installation on windows machines. Probably later code in python/kivy to fit with the InteractiveFeedbackAI project.
